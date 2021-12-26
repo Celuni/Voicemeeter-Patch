@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiceMeeterPatch", "VoiceMeeterPatch\VoiceMeeterPatch.csproj", "{892D70DE-B79F-48FD-8C1C-1DFC201B055C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{892D70DE-B79F-48FD-8C1C-1DFC201B055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D70DE-B79F-48FD-8C1C-1DFC201B055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D70DE-B79F-48FD-8C1C-1DFC201B055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D70DE-B79F-48FD-8C1C-1DFC201B055C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E87ECB7-5EA5-45FE-B577-798B286479F7}
+	EndGlobalSection
+EndGlobal
