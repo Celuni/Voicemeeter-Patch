@@ -6,3 +6,7 @@ If you like this program (Voicemeeter), please support the creator with a purcha
 
 # How to use it
 Just run the Program!
+
+
+# Update
+it might follow up a c++ version with auto backup and support for x32
